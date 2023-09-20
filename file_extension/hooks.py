@@ -125,6 +125,13 @@ app_license = "mit"
 #	}
 # }
 
+doc_events = {
+	"File": {
+		"validate": "file_extension.file_extension.doc_events.file.validate"
+		
+	}
+}
+
 # Scheduled Tasks
 # ---------------
 
